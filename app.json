@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lookMeApp",
+    "slug": "lookMeApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lookMeApp"
+}
